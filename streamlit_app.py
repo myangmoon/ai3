@@ -76,9 +76,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
      # 예)
     labels[0]: {
-       "texts": ["김승리는", "대성마이맥의", "일타강사입니다."],
-       "images": ["https://s3.orbi.kr/data/file/united2/c35e1685eb0644aeaa83988a08bac95c.jpeg", "https://.../jjampong2.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=-CPV-cdAlZc"]
+       "texts": ["강민철은", "메가스터디의", "일타강사입니다."],
+       "images": ["https://kpenews.com/Files/4/News/202101/2389_20210119170513411.PNG", "https://.../jjampong2.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=U-ARzXo9BTs"]
      },
 }
 
