@@ -77,9 +77,23 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      # 예)
     labels[0]: {
        "texts": ["강민철은", "메가스터디의", "일타강사입니다."],
-       "images": ["https://kpenews.com/Files/4/News/202101/2389_20210119170513411.PNG", "https://.../jjampong2.jpg"],
+       "images": ["https://kpenews.com/Files/4/News/202101/2389_20210119170513411.PNG"],
        "videos": ["https://www.youtube.com/watch?v=U-ARzXo9BTs"]
      },
+
+
+labels[1]: {
+       "texts": ["김승리는", "대성마이맥의", "일타강사입니다."],
+       "images": ["https://s3.orbi.kr/data/file/united/37d2b0e3114c1089780eaac3ebe41d23.png"],
+       "videos": ["https://www.youtube.com/watch?v=F24-K9I9h1g"]
+     },
+
+
+ labels[2]: {
+       "texts": ["김민정은", "이투스의", "일타강사입니다."],
+       "images": ["https://mblogthumb-phinf.pstatic.net/MjAyMTA4MTlfMjA2/MDAxNjI5MzYxNTM3NjI5.etMn9kgWxReyVSBuWoJh3PB8zx2N19qfsgeniMBpDaYg.zqECnr03kGpSyDGM7oOa8K4cB7c4gyNpkq5CS6UY4r0g.PNG.love_etoos/image.png?type=w800"],
+       "videos": ["https://www.youtube.com/watch?v=-7MsSEBn_jI&list=PLolkfKpmEzHu1hjwQto6NLVWcoHhms1FZ"]
+     },   
 }
 
 # ======================
